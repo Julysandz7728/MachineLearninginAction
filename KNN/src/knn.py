@@ -8,4 +8,4 @@ def createDataSet():
 
 def classify0(inx,dataSet,labels,k):
     dataSetSize = dataSet.shape[0]
-    diffmat = tile(inX,)
+    diffmat = tile()
